@@ -2,4 +2,4 @@
 
 This project  shows currency exchange rates, updates the newest currency rates daily and calculates sum from EUR to other currency.
 
-![ Alt text](demo. gif) / ! [](demo. gif)
+![Alt Text](demo.gif)
