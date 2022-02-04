@@ -1,6 +1,7 @@
-package com.example.application.data;
+package com.example.application.data.entity;
 
 import com.vaadin.fusion.Nonnull;
+
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
